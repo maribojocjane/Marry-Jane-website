@@ -49,7 +49,7 @@
   align-items: center;
   color:white;
   position: absolute;
-  top: 250%;
+  top: 10%;
   left: 100%;
   
   
@@ -114,10 +114,12 @@ section {
 
 #skills{
   text-align: center;
+  font-size: 2rem;
 }
 
 #hobbies{
   text-align: center;
+  font-size: 2rem;
 }
 
 #photo{
